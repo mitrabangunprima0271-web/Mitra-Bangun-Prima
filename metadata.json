@@ -1,0 +1,6 @@
+{
+  "name": "Mitra Bangun Prima - Developer Perumahan & Kontraktor Klaten",
+  "description": "Developer perumahan dan kontraktor konstruksi terpercaya di Klaten Tengah. Berfokus pada kualitas bangunan tinggi, transparansi, dan kenyamanan hunian keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
